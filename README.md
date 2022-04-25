@@ -5,6 +5,7 @@
 * Выводит в **stdout** уникальный идентификатор.
 * Без зависимостей.
 * Простой.
+* Script username.sh >> Marlen Kossakov
 ## Запуск (h2)
 `bash ./script.sh`
 ## Портирование (h2)
